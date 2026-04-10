@@ -41,7 +41,7 @@ A voice-driven Android assistant that lets users make phone calls, launch apps, 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/CallDialer-and-Weather-teller.git
+git clone https://github.com/MAbdullahWaqar/CallDialer-and-Weather-teller.git
 cd CallDialer-and-Weather-teller
 
 # 2. Open in Android Studio
@@ -134,7 +134,7 @@ Contributions are welcome. Please follow these guidelines:
 3. Test on a physical device (API 30+) before submitting
 4. Submit a pull request with a clear description of the change and its motivation
 
-Bug reports and feature requests can be filed via [GitHub Issues](https://github.com/vanix056/CallDialer-and-Weather-teller/issues).
+Bug reports and feature requests can be filed via [GitHub Issues](https://github.com/MAbdullahWaqar/CallDialer-and-Weather-teller/issues).
 
 ## License
 
@@ -142,5 +142,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **[vanix056](https://github.com/vanix056)** as part of a university project at NUST, combining Android development with speech-driven UX design.
+Developed by **[Muhammad Abdullah Waqar](https://github.com/MAbdullahWaqar)** as part of a university project at NUST, combining Android development with speech-driven UX design.
 
